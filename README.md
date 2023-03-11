@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samet
-- 👀 I’m interested in writing code
+- 👀 I’m interested in front-end development
 - 🌱 I’m currently learning React
 - 📫 How to reach me samet.aydinhan879@gmail.com
 
