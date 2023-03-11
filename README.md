@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samet
 - 👀 I’m interested in writing code
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning React
 - 📫 How to reach me samet.aydinhan879@gmail.com
 
 
