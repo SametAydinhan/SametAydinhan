@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isinnur&label=Profile%20views&color=0e75b6&style=flat" alt="isinnur" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SametAydinhan&label=Profile%20views&color=0e75b6&style=flat" alt="SametAydinhan" /> </p>
 
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning React
