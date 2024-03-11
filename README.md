@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SametAydinhan&label=Profile%20views&color=0e75b6&style=flat" alt="SametAydinhan" /> </p>
 
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and next.js
 - 📫 How to reach me samet.aydinhan879@gmail.com
 
 
